@@ -14,7 +14,7 @@ Welcome to my GitHub profile !
 
 Here are some projects I’ve worked on recently:
 
- **[Movie Recommendation System]**: A system that provides personalized movie recommendations based on user preferences using machine learning algorithms. Technologies used: Python, Scikit-learn.
+- **[Movie Recommendation System]**: A system that provides personalized movie recommendations based on user preferences using machine learning algorithms. Technologies used: Python, Scikit-learn.
 - **[Handwritten Character Recognition]**: An application that recognizes and classifies handwritten characters using neural networks. Technologies used: Python, CNN. 
 - **[Plant Disease Detection]**: A tool for identifying plant diseases from images using image processing and machine learning techniques. Technologies used: Python, OpenCV, Keras.
 

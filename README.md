@@ -1,4 +1,4 @@
-# Hello, I'm **[Abhishek]** 👋
+# Hello, I'm **Abhishek** 👋
 
 Welcome to my GitHub profile !
 
